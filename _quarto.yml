@@ -1,5 +1,8 @@
-project:
-  title: "yuhan-personal-website"
-
-editor: visual
+website:
+  title: "Yuhan Wu's Personal Website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
 
